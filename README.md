@@ -5,7 +5,7 @@ Slides and sample code on the training JavaScript Fundamentals, De Connectie, Sp
 - This repo will be deleted on 1 June, 2025. Make sure you have a copy before that date.
 - General repository with example code: https://github.com/PeterKassenaar/javascript-fundamentals
   
-- ## Links
+## Links
 - ...
 
 
